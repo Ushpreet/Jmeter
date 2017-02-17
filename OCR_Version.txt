@@ -1,0 +1,36 @@
+Cathode ray tube essentially consists of an electron gun for producing a stream of electrons, focusing and accelerating anodes for producing a narrow and sharply focused electron beam, horizontal and vertical deflection plates for controlling the beam path and an evacuated glass envelope with phosphorescent screen giving bright spot when struck by a high velocity electron beam.
+
+A cutaway view of an early CRT is shown in figure.
+
+CRT-Cathode Ray Tube
+CRT-Cathode Ray Tube
+Electron Gun Assembly.
+The electron gun assembly consists of an indirectly heated cathode, a control grid surrounding the cathode, a focusing anode and an accel­erating anode. The sole function of the electron gun assembly is to provide a focused electron beam which is accelerated towards the phosphor screen. The cathode is a nickel cylinder coated with an oxide coating and emits plenty of electrons, when heated. The emitting surface of the cathode should be as small as possible, theoretically a point. Rate of emission of electrons or say the intensity of electron beam depends on the cathode current, which can be controlled by the control grid |n a manner similar to a conventional vacuum tube. The control grid is a metal cylinder covered at one end but with a small hole in the cover. The grid is kept at negative potential (variable) with respect to cathode and its function is to vary the electron emission and so the brilliancy of the spot on the phosphor screen. The hole in the grid is provided to allow passage for electrons through it and concentrate the beam of electrons along the axis of tube. Electron beam comes out from the control grid through a small hole in it and enters a pre-accelerating anode, which is a hollow cylinder in shape and is at a potential of few hundred volts more positive than the cathode so as to accelerate the electron beam in the electric field. This accelerated beam would be scattered now because of variations in energy and would produce a broad ill-defined spot on the screen. This electron beam is focused on the screen by an electrostatic lens consisting of two more cylindrical anodes called the focusing anode and accelerating anode apart from the pre-accelerating anode. The focusing and accelerating anodes may be open or close at both ends and if covered, holes must be provided in the anode cover for the passage of electrons. The function of these anodes is to concentrate and focus the beam on the screen and also to accelerate the speed of electrons.
+
+Electrostatic Focusing System
+Electrostatic Focusing
+Electrostatic Focusing
+
+An electrostatic focusing system is shown in figure. Electrostatic lens consists of three anodes, with the middle anode at a lower potential than the other two electrodes.
+
+In figure two anodes and its electrostatic lines and equipotential surfaces are shown. A pd is kept between these two electrodes so that an electric field is generated between them. Spreading of electric field is caused because of repulsion between electric lines. If equipotential lines are drawn, as shown in figure, they would bulge at the centre of the two anodes. As we know that electrons move in a direction opposite to that of electric field lines and equipotential surfaces are perpendicular to the electric field lines so force on the electron is exerted in the direction normal to the equipotential surface.
+
+Equipotential lines on CRT
+
+Electrons entering at the centre line of the two anodes experience no force but electrons displaced from the centre line experience a force normal to the direction of equipotential surface and deflect, as shown in figure. An equi potential surface is shown, in which an electron with velocity V1 and at an angle ?. to the normal of equipotential surface enters and experiences a force in a direction normal to the equipotential surface. Thus the velocity of the electron increases to V2. This force on the electron is exerted in the direction normal to equipotential surface so only the normal component of electron velocity V1N increases to V2N and the tangential component of velocity V1T remains the same.
+
+Refraction of an electon ray-CRT
+
+From figure
+
+V1T = V1 sin ?1,
+
+V2T = V2 sin ?2
+
+But V1T = V2T
+
+V1 sin ?1 = V2 sin ?2
+
+Or  V2/V1 = sin ?1 / sin ?2
+
+From the above expression it is obvious that equipotential surface acts as a concave lens in geometrical optics. That is why, this focusing system is named as an electrostatic lens. Now if we go back and refer figure, it can be seen that because of middle anode to a lower potential, electron beam coming from the cathode and passing through the first concave electrostatic lens tends to become more aligned with the axis of CRT and when it enters at the second concave electrostatic lens, formed between two anodes at different potentials, it is focused at the phosphor screen. Focal length of the electrostatic lens can lie adjusted by varying potential of middle anode with respect to other two anodes. Thus electron beam can be made to focus at the screen very precisely.
